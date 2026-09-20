@@ -10,7 +10,6 @@ dist/
 
 # Local captures of the official dataset (~2 GiB). Never commit.
 *.csv
-*.csv.gz
 *.tsv
 
 .idea/
