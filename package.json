@@ -1,0 +1,11 @@
+{
+  "name": "ogcx-subventions",
+  "version": "0.0.4",
+  "private": true,
+  "description": "Explorateur libre des subventions et contributions du gouvernement du Canada",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx wrangler dev",
+    "deploy": "npx wrangler deploy"
+  }
+}
